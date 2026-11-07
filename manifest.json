@@ -1,0 +1,20 @@
+{
+  "id": "weightsorter",
+  "title": "{{psychalflesh|Weight Sorter}}",
+  "author": "{{ubernostrum|Cattlesquat}}",
+  "description": "Allows sorting your inventory and trade screen by weight. Icon by Good Ware, FlatIcon.com",
+  "tags": "",
+  "version": "1.0.0",
+  "previewImage": "preview.png",
+
+  "Directories": [
+    {
+      "Path": "/CurrentVersion/",
+      "Build": ">=2.0.212.30"
+    },
+    {
+      "Path": "/OldVersions/",
+      "Build": "<2.0.212.30"
+    }
+    ]
+}
