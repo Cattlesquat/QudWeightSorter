@@ -8,14 +8,11 @@ using XRL.UI;
 using XRL.UI.Framework;
 using UnityEngine;
 
-
 namespace XRL.World.Parts
 {
     [Qud.UI.InventoryUIPlugin]
     public class CattlesquatWeightSorter : Qud.UI.IInventoryUIPlugin
     {
-        public static readonly string MOD_ID = "WeightSorter";
-
         private int MySort = -1;
         private InventoryAndEquipmentStatusScreen TheScreen;
         private int LastOtherSort = InventoryAndEquipmentStatusScreen.SORTMODE_CATEGORY;
@@ -81,7 +78,6 @@ namespace XRL.World.Parts
 [Qud.UI.TradeUIPlugin]
 public class CattlesquatWeightSorterTrade : Qud.UI.ITradeUIPlugin
 {
-    public static readonly string MOD_ID = "WeightSorter";
     public static int WeightSort = -1;
     public static int PriceSort = -1;
     

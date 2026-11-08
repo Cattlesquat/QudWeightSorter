@@ -1,0 +1,8 @@
+{
+  "WorkshopId": 3835741397,
+  "Title": "Weight Sorter",
+  "Description": "Need to offload some heavy inventory? This adds options to sort inventory and trade screens by weight. It also adds a quick keystroke on each screen to toggle back and forth between modes. \n\nNOTE: presently works on lang-experimental branch and will work on Diaspora when it goes to EA. *Eventually* should work in main & beta branches, but... not yet!\n\nIcon by Justicon, FlatIcon.com",
+  "Tags": "Lang, UI, UX",
+  "Visibility": "2",
+  "ImagePath": "preview.png"
+}

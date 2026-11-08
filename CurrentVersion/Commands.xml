@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <commands>
-	<command ID="WeightSorterModCmdToggleSort" DisplayText="{{psychalflesht|Weight Sorter}} - Quick Weight Sort Toggle Key" Category="Menus" Layer="Menus" Auto="DownPass">
+	<command ID="WeightSorterModCmdToggleSort" DisplayText="{{cloudy|Weight}} {{shimmering|Sorter}} - Quick Weight Sort Toggle Key" Category="Menus" Layer="Menus" Auto="DownPass">
 		<keyboardBind Key="f1"/>
 	</command>
 </commands>

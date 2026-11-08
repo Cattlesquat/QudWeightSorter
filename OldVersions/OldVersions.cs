@@ -11,7 +11,7 @@ using XRL.World.Parts;
 
 namespace OldVersions
 {
-    public static readonly string MOD_NAME = "{{psychalflesh|Weight Sorter}}";
+    public static readonly string MOD_NAME = "{{cloudy|Weight}} {{shimmering|Sorter}}";
 
     [HasCallAfterGameLoaded]
     public class OldVersions : IPlayerPart
